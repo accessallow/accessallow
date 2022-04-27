@@ -10,7 +10,7 @@ Full Stack Engineer with research and development mindset. Polyglot programmer. 
 * 🖥️  See my portfolio at [Portfolio - Resume](http://pankajtiwari.22web.org/)
 * ✉️  You can contact me at [pankajtiwarisagar@gmail.com](mailto:pankajtiwarisagar@gmail.com)
 * 🧠  I'm learning React, AWS
-* 🤝  I'm open to collaborating on Open Source Contributions
+* 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  Love to watch Star Wars, Star Trek.
 
 <a href="https://www.github.com/accessallow" target="_blank" rel="noreferrer"><img
