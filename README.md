@@ -1,4 +1,4 @@
-Hi 👋 My name is Pankaj Tiwari
+Pankaj Tiwari
 ==============================
 
 Full Stack Web Developer
