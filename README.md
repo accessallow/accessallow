@@ -11,7 +11,7 @@ Full Stack Engineer with research and development mindset. Polyglot programmer. 
 * ✉️  You can contact me at [pankajtiwarisagar@gmail.com](mailto:pankajtiwarisagar@gmail.com)
 * 🧠  I'm learning React, AWS
 * 🤝  I'm open to collaborating on Open Source Projects
-* ⚡  Love to watch Star Wars, Star Trek.
+* ⚡  Love to watch Star Trek.
 
 <a href="https://www.github.com/accessallow" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/accessallow?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
