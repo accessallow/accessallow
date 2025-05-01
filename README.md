@@ -1,4 +1,4 @@
-Pankaj Tiwari
+Richard Alcaraz
 ==============================
 
 Full Stack Web Developer
@@ -6,9 +6,9 @@ Full Stack Web Developer
 
 Full Stack Engineer with research and development mindset. Polyglot programmer. I am well versed in web application development using Java, Angular, AWS, Python, PHP.
 
-* 🌍  I'm based out of Pune, India
-* 🖥️  See my portfolio at [Portfolio - Resume](http://pankajtiwari.22web.org/)
-* ✉️  You can contact me at [pankajtiwarisagar@gmail.com](mailto:pankajtiwarisagar@gmail.com)
+* 🌍  I'm based out of Palm Springs, CA
+{::comment}* 🖥️  See my portfolio at [Portfolio - Resume](http://pankajtiwari.22web.org/)  {::/comment}
+{::comment}* ✉️  You can contact me at [pankajtiwarisagar@gmail.com](mailto:pankajtiwarisagar@gmail.com) {::/comment}
 * 🧠  I'm learning React, AWS
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  Love to watch Star Trek.
@@ -36,10 +36,12 @@ src="https://img.shields.io/github/followers/accessallow?logo=github&style=for-t
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-
+{::comment}
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100035749839013" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/accessallow" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/pankaj-tiwari-18168378/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+{::/comment}
+
 
 ### Badges
 
