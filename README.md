@@ -1,4 +1,4 @@
-Richard Alcaraz
+Pankaj Tiwari
 ==============================
 
 Full Stack Web Developer
@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 Full Stack Engineer with research and development mindset. Polyglot programmer. I am well versed in web application development using Java, Angular, AWS, Python, PHP.
 
-* 🌍  I'm based out of Palm Springs, CA
+* 🌍  I'm based out of Pune, India
 <!-- * 🖥️  See my portfolio at [Portfolio - Resume](http://pankajtiwari.22web.org/)  -->
 <!-- * ✉️  You can contact me at [pankajtiwarisagar@gmail.com](mailto:pankajtiwarisagar@gmail.com) -->
 * 🧠  I'm learning React, AWS
